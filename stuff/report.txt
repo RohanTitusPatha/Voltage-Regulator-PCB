@@ -1,0 +1,12 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to '/Users/rohantitus/Downloads/kicad libraries/voltage regulator/VR 5v and 9v/VR 5v and 9v-F_Cu.gbr'.
+Plotted to '/Users/rohantitus/Downloads/kicad libraries/voltage regulator/VR 5v and 9v/VR 5v and 9v-B_Cu.gbr'.
+Plotted to '/Users/rohantitus/Downloads/kicad libraries/voltage regulator/VR 5v and 9v/VR 5v and 9v-F_Paste.gbr'.
+Plotted to '/Users/rohantitus/Downloads/kicad libraries/voltage regulator/VR 5v and 9v/VR 5v and 9v-B_Paste.gbr'.
+Plotted to '/Users/rohantitus/Downloads/kicad libraries/voltage regulator/VR 5v and 9v/VR 5v and 9v-F_Silkscreen.gbr'.
+Plotted to '/Users/rohantitus/Downloads/kicad libraries/voltage regulator/VR 5v and 9v/VR 5v and 9v-B_Silkscreen.gbr'.
+Plotted to '/Users/rohantitus/Downloads/kicad libraries/voltage regulator/VR 5v and 9v/VR 5v and 9v-F_Mask.gbr'.
+Plotted to '/Users/rohantitus/Downloads/kicad libraries/voltage regulator/VR 5v and 9v/VR 5v and 9v-B_Mask.gbr'.
+Plotted to '/Users/rohantitus/Downloads/kicad libraries/voltage regulator/VR 5v and 9v/VR 5v and 9v-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/rohantitus/Downloads/kicad libraries/voltage regulator/VR 5v and 9v/VR 5v and 9v-job.gbrjob'.
+Info: Done.
