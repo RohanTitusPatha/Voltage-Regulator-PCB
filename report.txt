@@ -1,0 +1,115 @@
+Info: Processing symbol 'C1:Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm'.
+Info: Processing symbol 'U2:Package_TO_SOT_THT:TO-220-3_Vertical'.
+Info: Processing symbol 'U1:Package_TO_SOT_THT:TO-220-3_Vertical'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'J3:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'J2:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'J1:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'D2:LED_THT:LED_D4.0mm'.
+Info: Processing symbol 'D1:LED_THT:LED_D4.0mm'.
+Info: Processing symbol 'C2:Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm'.
+Info: Processing symbol 'C4:Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm'.
+Info: Processing symbol 'C3:Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm'.
+Changed C2 value from C_Disc_D3.0mm_W2.0mm_P2.50mm to 0.1 uf.
+Updated C2 symbol association from  to /96100a38-224c-480d-8a0d-c70c7f5ffba5.
+Updated C2 properties.
+Add net 9v.
+Connected C2 pin 1 to 9v.
+Connected C2 pin 2 to GND.
+Changed REF** reference designator to C2.
+Added C3 (footprint 'Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm').
+Changed REF** reference designator to C3.
+Changed C3 value from C_Disc_D4.7mm_W2.5mm_P5.00mm to 0.33 uf.
+Updated C3 symbol association from  to /ea197210-0faf-4185-a122-afc3e905b642.
+Updated C3 properties.
+Connected C3 pin 1 to +12V.
+Connected C3 pin 2 to GND.
+Added C2 (footprint 'Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm').
+Added C4 (footprint 'Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm').
+Changed REF** reference designator to C4.
+Changed C4 value from C_Disc_D3.0mm_W2.0mm_P2.50mm to 0.1uf.
+Updated C4 symbol association from  to /5f4c49a0-0687-4ff4-b2a1-79a86bf10086.
+Updated C4 properties.
+Add net 5v.
+Connected C4 pin 1 to 5v.
+Connected C4 pin 2 to GND.
+Connected C1 pin 2 to GND.
+Added D1 (footprint 'LED_THT:LED_D4.0mm').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_D4.0mm to LED.
+Updated D1 symbol association from  to /de87f300-4681-4a6b-9a24-316ba9cd359b.
+Updated D1 properties.
+Add net Net-(D1-K).
+Connected D1 pin 1 to Net-(D1-K).
+Connected D1 pin 2 to 9v.
+Add net GND.
+Added D2 (footprint 'LED_THT:LED_D4.0mm').
+Changed REF** reference designator to D2.
+Changed D2 value from LED_D4.0mm to LED.
+Updated D2 symbol association from  to /fa6cecb6-4086-42bd-97e1-990d28029b75.
+Updated D2 properties.
+Add net Net-(D2-K).
+Connected D2 pin 1 to Net-(D2-K).
+Connected D2 pin 2 to 5v.
+Connected C1 pin 1 to +12V.
+Added J1 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal').
+Changed REF** reference designator to J1.
+Changed J1 value from TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal to 5v.
+Updated J1 symbol association from  to /9ed43e6b-60da-4d27-a420-c4d583c467af.
+Updated J1 properties.
+Connected J1 pin 1 to 5v.
+Connected J1 pin 2 to GND.
+Add net +12V.
+Added J2 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal').
+Changed REF** reference designator to J2.
+Changed J2 value from TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal to 9v.
+Updated J2 symbol association from  to /36372e7c-c66c-4286-a033-7e8688f57e3e.
+Updated J2 properties.
+Connected J2 pin 1 to 9v.
+Connected J2 pin 2 to GND.
+Updated C1 properties.
+Added J3 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal').
+Changed REF** reference designator to J3.
+Changed J3 value from TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal to 12v.
+Updated J3 symbol association from  to /44e078e5-676e-43bd-9f95-dcafcf79515c.
+Updated J3 properties.
+Connected J3 pin 1 to +12V.
+Connected J3 pin 2 to GND.
+Updated C1 symbol association from  to /c4a22f48-e29a-434b-8a1e-886041dfebcd.
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 1k ohm.
+Updated R1 symbol association from  to /a29949a0-756e-428b-8a28-8bb985b83ce7.
+Updated R1 properties.
+Connected R1 pin 1 to Net-(D1-K).
+Connected R1 pin 2 to GND.
+Changed C1 value from C_Disc_D4.7mm_W2.5mm_P5.00mm to 0.33uf.
+Added R2 (footprint 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal').
+Changed REF** reference designator to R2.
+Changed R2 value from R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal to 330 ohm.
+Updated R2 symbol association from  to /399e0a75-b1a6-4086-b0e3-1c31b50c1886.
+Updated R2 properties.
+Connected R2 pin 1 to Net-(D2-K).
+Connected R2 pin 2 to GND.
+Changed REF** reference designator to C1.
+Added U1 (footprint 'Package_TO_SOT_THT:TO-220-3_Vertical').
+Changed REF** reference designator to U1.
+Changed U1 value from TO-220-3_Vertical to L7809.
+Updated U1 symbol association from  to /e21fd19b-d158-4d2d-a0f6-6d495204aa6d.
+Updated U1 properties.
+Connected U1 pin 1 to +12V.
+Connected U1 pin 2 to GND.
+Connected U1 pin 3 to 9v.
+Added C1 (footprint 'Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm').
+Added U2 (footprint 'Package_TO_SOT_THT:TO-220-3_Vertical').
+Changed REF** reference designator to U2.
+Changed U2 value from TO-220-3_Vertical to L7805.
+Updated U2 symbol association from  to /00817632-c034-45d3-bfd6-72573fbb8d7d.
+Updated U2 properties.
+Connected U2 pin 1 to +12V.
+Connected U2 pin 2 to GND.
+Connected U2 pin 3 to 5v.
+
+
+Info: Total warnings: 0, errors: 0.
