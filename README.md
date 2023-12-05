@@ -27,12 +27,17 @@ If you find this project helpful or have any questions, please don't hesitate to
 
 
 
-Image of PCB Editor
+##Image of PCB Editor
+
 <img width="796" alt="Screenshot 2023-12-06 at 2 32 54 AM" src="https://github.com/RohanTitusPatha/Voltage-Regulator-PCB/assets/145809181/16ebaab0-5833-4a5c-ae80-737c08fcb626">
 
-Image of Escheema
+
+##Image of Escheema
+
 <img width="869" alt="Screenshot 2023-12-06 at 2 34 53 AM" src="https://github.com/RohanTitusPatha/Voltage-Regulator-PCB/assets/145809181/022b7289-0dd9-4f79-9b5d-b33a66e9ee4c">
 
-Image of 3-d vieweer
+
+##Image of 3-d viewer
+
 <img width="530" alt="Screenshot 2023-12-06 at 2 35 43 AM" src="https://github.com/RohanTitusPatha/Voltage-Regulator-PCB/assets/145809181/5876e785-dcdb-4e81-8039-a78056cde048">
 
